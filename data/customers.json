@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "65fda56e4cec132b9f3be116",
+    "name": "Francesca Lloyd",
+    "email": "francescalloyd@quinex.com",
+    "role": "admin",
+    "active": true,
+    "photo": "user-3.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda56e61d083ca9a2ea379",
+    "name": "Christensen English",
+    "email": "christensenenglish@quinex.com",
+    "role": "user",
+    "active": false,
+    "photo": "user-5.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda56eb5c2aa58e06e553d",
+    "name": "Lora Graves",
+    "email": "loragraves@quinex.com",
+    "role": "user",
+    "active": false,
+    "photo": "user-3.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda56e5e1ad6c87949bcf8",
+    "name": "Mueller Santiago",
+    "email": "muellersantiago@quinex.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-2.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda56ed0381ccf3fa3df29",
+    "name": "Reid Burnett",
+    "email": "reidburnett@quinex.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-3.jpg",
+    "password": ""
+  },
+  {
+    "_id": "65fda56ee4a6fb42225af589",
+    "name": "Zelma Huff",
+    "email": "zelmahuff@quinex.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-5.jpg",
+    "password": ""
+  }
+]
